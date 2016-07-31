@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="y_offset_time">75dp</dimen>
+    <dimen name="y_offset_date">100dp</dimen>
+    <dimen name="y_offset_temp">160dp</dimen>
+    <dimen name="y_offset_image">130dp</dimen>
+
+    <dimen name="y_offset_divider">120dp</dimen>
+
+    <dimen name="text_size_time">35dp</dimen>
+    <dimen name="text_size_date">18dp</dimen>
+    <dimen name="text_size_temp">25dp</dimen>
+
+    <dimen name="x_offset_time">50dp</dimen>
+    <dimen name="x_offset_date">25dp</dimen>
+    <dimen name="x_offset_high">75dp</dimen>
+    <dimen name="x_offset_low">120dp</dimen>
+    <dimen name="x_offset_image">30dp</dimen>
+    <dimen name="divider_left">70dp</dimen>
+    <dimen name="divider_right">120dp</dimen>
+
+    <dimen name="x_offset_time_round">60dp</dimen>
+    <dimen name="x_offset_date_round">40dp</dimen>
+    <dimen name="x_offset_high_round">85dp</dimen>
+    <dimen name="x_offset_low_round">130dp</dimen>
+    <dimen name="x_offset_image_round">30dp</dimen>
+    <dimen name="divider_left_round">80dp</dimen>
+    <dimen name="divider_right_round">130dp</dimen>
+</resources>
